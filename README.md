@@ -9,6 +9,8 @@ To be able to develop a Vanilla website you will need:
 1. A github account and repository
 2. [VS Code](https://code.visualstudio.com/download) installed on your machine
 3. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension on VS Code
+4. With Live Server installed you can start a dev server follow the instructions on the install page
+5. Now you are ready to develop your site!
 
 ## How do I set up github pages?
 
